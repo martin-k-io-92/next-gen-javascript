@@ -8,3 +8,5 @@
 3. Exports & Imports(Modules)
 
 4. Classes
+
+5. Classes, Properties & Methods (Next Gen Syntax)
