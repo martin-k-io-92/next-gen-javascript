@@ -12,3 +12,5 @@
 5. Classes, Properties & Methods (Next Gen Syntax)
 
 6. Spread & Rest Operators
+
+7. Destructuring
