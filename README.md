@@ -14,3 +14,5 @@
 6. Spread & Rest Operators
 
 7. Destructuring
+
+8. Reference & Primitive Types
