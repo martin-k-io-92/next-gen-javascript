@@ -6,3 +6,5 @@
 2. Arrow Functions
 
 3. Exports & Imports(Modules)
+
+4. Classes
