@@ -10,3 +10,5 @@
 4. Classes
 
 5. Classes, Properties & Methods (Next Gen Syntax)
+
+6. Spread & Rest Operators
