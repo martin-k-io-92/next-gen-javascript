@@ -16,3 +16,5 @@
 7. Destructuring
 
 8. Reference & Primitive Types
+
+9. Array Functions
